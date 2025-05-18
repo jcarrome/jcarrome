@@ -16,7 +16,7 @@ Este repositorio está dedicado a mostrar mi progreso, habilidades y experiencia
 
 ---
 
-## 🙋 Sobre mí
+## Sobre mí
 
 🎓 Estudiante de Ingeniería en Computación – ESPOL  
 💡 Apasionado por el desarrollo de software, resolución de problemas y el aprendizaje continuo.  
@@ -25,14 +25,14 @@ Este repositorio está dedicado a mostrar mi progreso, habilidades y experiencia
 
 ---
 
-## 🚧 Proyectos
+## Proyectos
 
 🔧 *Estoy trabajando en nuevos proyectos que serán publicados próximamente...*  
 ✨ ¡Mantente atento!
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 Estas son algunas de las tecnologías y herramientas con las que he trabajado o estoy aprendiendo:
 
@@ -44,13 +44,13 @@ Estas son algunas de las tecnologías y herramientas con las que he trabajado o 
 
 ---
 
-## 🖼️ Capturas de Pantalla
+## Capturas de Pantalla
 
 > *Capturas de mis proyectos estarán disponibles próximamente...*
 
 ---
 
-## 📬 Contacto
+## Contacto
 
 📧 Correo institucional: jcarrome@espol.edu.ec  
 🌐 GitHub: [@jcarrome](https://github.com/jcarrome)
