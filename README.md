@@ -1,70 +1,60 @@
 # 📁 Repositorio Personal de Proyectos
 
-¡Bienvenido/a! Este repositorio contiene una colección de mis proyectos personales y académicos. Aquí podrás encontrar información sobre cada uno, las tecnologías utilizadas, su estado actual y enlaces para explorarlos.
+# 👋 ¡Bienvenido/a a mi Portafolio!
+
+Este repositorio está dedicado a mostrar mi progreso, habilidades y experiencias como estudiante de Ingeniería en Computación en la ESPOL. Aquí encontrarás información sobre las tecnologías que uso, mis intereses, mis proyectos (próximamente) y cómo contactarme.
 
 ---
 
-## 🗂️ Índice
+## 📌 Índice
 
-1. [Proyectos](#proyectos)
-2. [Tecnologías](#tecnologías)
-3. [Estado de los Proyectos](#estado-de-los-proyectos)
+1. [Sobre mí](#sobre-mí)
+2. [Proyectos](#proyectos)
+3. [Tecnologías](#tecnologías)
 4. [Capturas de Pantalla](#capturas-de-pantalla)
 5. [Contacto](#contacto)
 
 ---
 
-## 🚀 Proyectos
+## 🙋 Sobre mí
 
-| Proyecto | Descripción | Enlace |
-|----------|-------------|--------|
-| **Proyecto 1** | Proyecto 1. | [Repositorio](https://github.com/jcarrome/jcarrome/tree/main) |
-| **Proyecto 2** | Proyecto 2. | [Repositorio](https://github.com/jcarrome/jcarrome/tree/main) |
-| **Proyecto 3** | Proyecto 3. | [Repositorio](https://github.com/jcarrome/jcarrome/tree/main) |
-| **Proyecto 4** | Proyecto 4. | [Repositorio](https://github.com/jcarrome/jcarrome/tree/main) |
+🎓 Estudiante de Ingeniería en Computación – ESPOL  
+💡 Apasionado por el desarrollo de software, resolución de problemas y el aprendizaje continuo.  
+🚀 Actualmente desarrollando proyectos personales y académicos.  
+🎯 Interesado en áreas como desarrollo web, aplicaciones móviles y estructuras de datos.
+
+---
+
+## 🚧 Proyectos
+
+🔧 *Estoy trabajando en nuevos proyectos que serán publicados próximamente...*  
+✨ ¡Mantente atento!
 
 ---
 
 ## 🛠️ Tecnologías
 
-Estas son algunas de las tecnologías y herramientas que he utilizado en mis proyectos:
+Estas son algunas de las tecnologías y herramientas con las que he trabajado o estoy aprendiendo:
 
-- **Frontend:** 
-- **Backend:** 
+- **Lenguajes:** Java, Python, C
+- **Frontend:** HTML, CSS, JavaScript *(básico)*
+- **Backend:** *(en aprendizaje)*
 - **Control de versiones:** Git, GitHub
-- **Otras herramientas:**
-
----
-
-## 📊 Estado de los Proyectos
-
-| Proyecto | Estado |
-|----------|--------|
-| Proyecto 1  | 🟡 En desarrollo |
-| Proyecto 2  | 🔵 Finalizado |
-| Proyecto 3  | 🔵 Finalizado |
-| Proyecto 4  | 🟢 Finalizado |
-
+- **Herramientas:** VS Code, NetBeans
 
 ---
 
 ## 🖼️ Capturas de Pantalla
 
-### Gestor de Tareas
-
-![Proyecto 1](./screenshots/gestor-tareas-dashboard.png)
-
-### Portafolio Web
-
-![Portafolio - Página principal](./screenshots/portafolio-home.png)
-
+> *Capturas de mis proyectos estarán disponibles próximamente...*
 
 ---
 
 ## 📬 Contacto
 
-📧 Correo institucional: jcarrome@espol.edu.ec
+📧 Correo institucional: jcarrome@espol.edu.ec  
+🌐 GitHub: [@jcarrome](https://github.com/jcarrome)
 
 ---
 
-Gracias por visitar este repositorio. Si tienes alguna sugerencia o deseas colaborar, ¡no dudes en contactarme!
+Gracias por visitar este repositorio. Si tienes alguna sugerencia o deseas colaborar, ¡no dudes en contactarme! 😊
